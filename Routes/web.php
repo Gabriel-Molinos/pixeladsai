@@ -1,5 +1,5 @@
 <?php
-
+//comentario de teste
 use App\Core\Route;
 use App\Controllers\Auth\LoginController;
 use App\Controllers\Adwords\AdwordsController;
